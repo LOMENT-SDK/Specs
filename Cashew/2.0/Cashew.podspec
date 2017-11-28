@@ -28,7 +28,7 @@ s.summary      = "An iOS SDK to deliver secure messaging in an app."
 # TODO: Write a description!
 # DESC
 
-s.homepage     = "https://github.com/Loment/sdk-cashew-ios"
+s.homepage     = "https://github.com/Loment-SDK/sdk-cashew-ios"
 
 
 # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -72,7 +72,7 @@ s.platform     = :ios, "8.0"
 #  Supports git, hg, bzr, svn and HTTP.
 #
 
-s.source       = { :http => "https://github.com/Loment/sdk-cashew-ios/releases/download/v2.0/MessagingSDK.framework.zip" }
+s.source       = { :http => "https://github.com/Loment-SDK/sdk-cashew-ios/releases/download/v2.0/MessagingSDK.framework.zip" }
 
 
 # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
